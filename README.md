@@ -80,6 +80,6 @@ CALCULATE(AVERAGE(Netflix_Titles[duration_value]), Netflix_Titles[type] = "Movie
 Netflix Movies and TV Shows dataset from Kaggle.
 
 ## 👤 Author
-**Abida** | [LinkedIn]([[paste your LinkedIn link](https://www.linkedin.com/in/aabida-irfan-shaikh)]) | [GitHub](https://github.com/abida2005)
+**Abida** | [LinkedIn]((linkedin.com/in/aabida-irfan-shaikh)) | [GitHub](https://github.com/abida2005)
 
 ⭐ If you found this project useful, feel free to star the repository.
