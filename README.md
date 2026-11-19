@@ -4,12 +4,6 @@
 An interactive Power BI dashboard analyzing 8,807 Netflix movies and TV shows
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-E50914?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" />
-</p>
-
 ![Netflix Content Insights Dashboard](netflix_dashboard.png)
 
 ---
@@ -83,9 +77,9 @@ CALCULATE(AVERAGE(Netflix_Titles[duration_value]), Netflix_Titles[type] = "Movie
 | `README.md` | Project documentation |
 
 ## 📚 Data Source
-Netflix Movies and TV Shows dataset from [Kaggle]([paste dataset link here]).
+Netflix Movies and TV Shows dataset from Kaggle.
 
 ## 👤 Author
-**Abida** | [LinkedIn]([paste your LinkedIn link]) | [GitHub](https://github.com/abida2005)
+**Abida** | [LinkedIn]([[paste your LinkedIn link](https://www.linkedin.com/in/aabida-irfan-shaikh)]) | [GitHub](https://github.com/abida2005)
 
 ⭐ If you found this project useful, feel free to star the repository.
