@@ -2,8 +2,7 @@
 
 An interactive Power BI dashboard that analyzes Netflix's catalog of movies and TV shows: what content exists, where it comes from, and how the catalog has grown over time.
 
-![Netflix Content Insights Dashboard](images/dashboard.png)
-
+![Netflix Content Insights Dashboard](dashboard.png)
 ## Business Questions Answered
 - How big is the catalog, and what's the Movie vs TV Show split?
 - Which countries and genres dominate the catalog?
