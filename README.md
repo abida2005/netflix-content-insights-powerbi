@@ -10,7 +10,7 @@ An interactive Power BI dashboard analyzing 8,807 Netflix movies and TV shows
   <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" />
 </p>
 
-![Netflix Content Insights Dashboard](dashboard.png)
+![Netflix Content Insights Dashboard](netflix_dashboard.png)
 
 ---
 
